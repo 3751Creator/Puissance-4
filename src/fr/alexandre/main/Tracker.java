@@ -18,7 +18,7 @@ package fr.alexandre.main;
 	| |
 0-	1 2
 1-	3 4     [2][1] = 6
-2-	5 6
+2-	5 6     [Ligne][Colonne]
  */
 public class Tracker {
 
